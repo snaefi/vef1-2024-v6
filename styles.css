@@ -1,4 +1,4 @@
-/* Setjum inn „reset“ sem fjarlægir margin og padding af öllu */
+/* Setjum inn  „reset“ sem fjarlægir margin og padding af öllu */
 * {
   margin: 0;
   padding: 0;
@@ -23,7 +23,7 @@ html {
   overflow: hidden;
   position: absolute;
   white-space: nowrap;
-  width: 1px;
+  width: 2px;
 }
 
 /* Stillingar */
